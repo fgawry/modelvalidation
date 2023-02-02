@@ -1,0 +1,8 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("grDevices", "dev.new", "dev.off")
+importFrom("graphics", "abline", "box", "boxplot", "close.screen",
+           "hist", "lines", "par", "plot", "screen", "split.screen",
+           "title")
+importFrom("stats", "acf", "family", "getCall", "glm", "lm", "lowess",
+           "model.frame", "predict", "qqline", "qqnorm", "resid",
+           "simulate")

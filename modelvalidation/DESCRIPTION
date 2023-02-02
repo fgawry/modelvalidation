@@ -1,0 +1,13 @@
+Package: modelvalidation
+Type: Package
+Title: Linear Model Validation Plots
+Version: 0.4.2
+Author: Felipe M. Gawryszewski
+Maintainer: Felipe M. Gawryszewski <f.gawry@gmail.com>
+Description: Visual validation plots for generalised linear models (GLM) and linear mixed models (LMM).
+License: GPL-2
+Imports: graphics, stats
+Suggests: nlme, lme4, nlraa
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
